@@ -1,6 +1,7 @@
 {
   "name": "codesandbox-reason-react",
   "version": "0.1.0",
+  "main": "src/App.re",
   "scripts": {
     "build": "bsb -make-world",
     "clean": "bsb -clean-world",
